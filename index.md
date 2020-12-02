@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About Me:
 
 You can use the [editor on GitHub](https://github.com/basslove28/basslove.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,19 +9,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+My ePortfolio is categorize into three sections:
 
-# Artifact One: Sofware Design
-## Artifact Two: Data Structures/Algorithms
-### Artifact Three: Databases
+**Category One: Sofware Design**
+- Testing
+- Software testing
+- Commenting style
 
-- Bulleted
-- List
+**Category Two: Data Structures/Algorithms**
+- 
+-
+-
 
-1. Numbered
-2. List
+*Category Three: Databases*
+-  
+- 
+-
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
