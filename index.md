@@ -4,12 +4,9 @@ You can use the [editor on GitHub](https://github.com/basslove28/basslove.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-My ePortfolio is categorize into three sections:
+My ePortfolio is categorize into three sections in which display technique and skills i've gained throughout my journey:
 
 **Category One: Sofware Design**
 - Testing
@@ -21,20 +18,16 @@ My ePortfolio is categorize into three sections:
 -
 -
 
-*Category Three: Databases*
--  
-- 
--
+**Category Three: Databases**
+- Concepts of Data Mining  
+- Clustering 
+- Data cleaning/Preparation 
 
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/basslove28/basslove.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
