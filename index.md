@@ -9,19 +9,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 My ePortfolio is categorize into three sections in which display technique and skills i've gained throughout my journey:
 
 **Category One: Sofware Design**
+
 - Testing
 - Software testing
 - Commenting style
 
-The following link is from a code I did that best describe my skills above:
+The following link displays the skills I obtain with my experience:
 
-[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp) 
+
+ 
 
 **Category Two: Data Structures/Algorithms**
 - Data structures such as: arrays/lists, queueing, hash tables, strings, and stacks
 - Developing Algorithms that is clear and understandable
 - Displaying programming language skills such as c++.
 
+The following link is from a code I did that best describe my skills above:
+
+[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
 
 **Category Three: Databases**
 - Concepts of Data Mining  
@@ -34,6 +39,3 @@ The following link is from a code I did that best describe my skills above:
 
 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
