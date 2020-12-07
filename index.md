@@ -16,7 +16,7 @@ My ePortfolio is categorize into three sections in which display technique and s
 
 The following link displays the skills I obtain with my experience:
 
-[Link] (https://github.com/basslove28/basslove28.github.io/blob/gh-pages/App.java)
+[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/App.java)
  
 
 **Category Two: Data Structures/Algorithms**
