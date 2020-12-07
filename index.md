@@ -15,12 +15,13 @@ My ePortfolio is categorize into three sections in which display technique and s
 
 The following link is from a code I did that best describe my skills above:
 
-[(https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)] 
+[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp) 
 
 **Category Two: Data Structures/Algorithms**
 - Data structures such as: arrays/lists, queueing, hash tables, strings, and stacks
 - Developing Algorithms that is clear and understandable
 - Displaying programming language skills such as c++.
+
 
 **Category Three: Databases**
 - Concepts of Data Mining  
