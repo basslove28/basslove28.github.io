@@ -13,6 +13,8 @@ My ePortfolio is categorize into three sections in which display technique and s
 - Software testing
 - Commenting style
 
+The following link is from a code I did that best describe my skills above:
+
 [(https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)] 
 
 **Category Two: Data Structures/Algorithms**
