@@ -10,6 +10,7 @@ My ePortfolio is categorize into three sections in which display technique and s
 
 **Category One: Sofware Design**
 
+Skills:
 - Testing
 - Software testing
 - Commenting style
@@ -20,6 +21,8 @@ The following link displays the skills I obtain with my experience:
  
 
 **Category Two: Data Structures/Algorithms**
+
+Skills:
 - Data structures such as: arrays/lists, queueing, hash tables, strings, and stacks
 - Developing Algorithms that is clear and understandable
 - Displaying programming language skills such as c++.
@@ -29,7 +32,9 @@ The following link is from a code I did that best describe my skills above:
 [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
 
 **Category Three: Databases**
-- Concepts of Data Mining  
+
+Skills:
+- Concepts/Fundamentals of Data Mining  
 - Clustering 
 - Data cleaning/Preparation 
 
