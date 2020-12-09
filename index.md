@@ -30,7 +30,7 @@ The following link is from a code I did that best describe my skills above:
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
 
-###### **Artifact Three: Databases**
+##### **Artifact Three: Databases**
 
 Skills:
 - Concepts/Fundamentals of Data Mining  
