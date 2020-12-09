@@ -1,4 +1,4 @@
-## About Me:
+# About Me:
 
 Throughout my computer science journey, I have experience, implemented and learn about the core aspect of computers and various utilizations that benefits the modern world that we live at this moment. From learn a variety of programming languages such as Java, SQL, C++ and python, to learning how to create simple and complex project that tests my critical thinking skills, as well as being knoweldgable for cerain aspects of technologies. 
 
@@ -7,7 +7,7 @@ Completing the computer science program I have involved in many projects that no
 
 My ePortfolio is categorize into three sections in which display technique and skills i've gained throughout my journey. These artifacts are not only shows my skills but also show the growth and progress that ive made in developing this ePortfolio. Moreover, the artifacts show a variety of skills using the programming languages C++ and Java and the narratives gives a in-depth anaylsis of what i learned from previous courses to the enhancements and improvements I currently learned.
 
-**Artifact One: Sofware Design**
+## **Artifact One: Sofware Design**
 
 Skills:
 - Testing
@@ -19,7 +19,7 @@ The following link displays the skills I obtain with my experience:
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/App.java)
  
 
-**Artifact Two: Data Structures/Algorithms**
+### **Artifact Two: Data Structures/Algorithms**
 
 Skills:
 - Data structures such as: arrays/lists, queueing, hash tables, strings, and stacks
@@ -30,7 +30,7 @@ The following link is from a code I did that best describe my skills above:
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
 
-**Artifact Three: Databases**
+#### **Artifact Three: Databases**
 
 Skills:
 - Concepts/Fundamentals of Data Mining  
