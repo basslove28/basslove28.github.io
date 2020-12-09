@@ -16,7 +16,7 @@ Skills:
 
 The following link displays the skills I obtain with my experience:
 
-[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/App.java)
+- [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/App.java)
  
 
 **Artifact Two: Data Structures/Algorithms**
@@ -28,7 +28,7 @@ Skills:
 
 The following link is from a code I did that best describe my skills above:
 
-[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
+- [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
 
 **Artifact Three: Databases**
 
@@ -39,11 +39,11 @@ Skills:
 
 The following link is a documentation of analysis of the company Bubba Gump Shrimp Co. The buisness problem, steps, and recommendations are also within this document:
 
-[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Bubba%20Gump%20Final%20Project.docx) 
+- [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Bubba%20Gump%20Final%20Project.docx) 
 
 This link is the fit model of the company. This gives an in depth look of how I came up with my analysis:
 
-[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Fit%20Model.pdf)
+- [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Fit%20Model.pdf)
 
 
 
