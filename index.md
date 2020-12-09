@@ -19,7 +19,7 @@ The following link displays the skills I obtain with my experience:
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/App.java)
  
 
-### **Artifact Two: Data Structures/Algorithms**
+## **Artifact Two: Data Structures/Algorithms**
 
 Skills:
 - Data structures such as: arrays/lists, queueing, hash tables, strings, and stacks
@@ -30,7 +30,7 @@ The following link is from a code I did that best describe my skills above:
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
 
-### **Artifact Three: Databases**
+## **Artifact Three: Databases**
 
 Skills:
 - Concepts/Fundamentals of Data Mining  
