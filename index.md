@@ -9,6 +9,7 @@ My ePortfolio is categorize into three sections in which display technique and s
 ## **Artifact One: Sofware Design**
 
 Programming Language: Java
+
 Skills:
 - Testing
 - Software testing
@@ -24,6 +25,7 @@ Summary of this Artifact:
 ## **Artifact Two: Data Structures/Algorithms**
 
 Programming Language: C++
+
 Skills:
 - Data structures such as: arrays/lists, queueing, hash tables, strings, and stacks
 - Developing Algorithms that is clear and understandable
