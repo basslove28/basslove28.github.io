@@ -4,7 +4,7 @@ Throughout my computer science journey, I have experience, implemented and learn
 
 Completing the computer science program I have involved in many projects that not only help develop my math and critical thinking skills, but also allow me to become comfortable working with a team as well as communicating with stakeholders. I realize from this experience that effective teamwork is top priority when working in a project. From developing software in an agile envirionment, to software testing to communicate with other team memebers to ensure success, in coomputer science, constant communication is vital. Becoming involve in computer science is something that Ive been wanting to do throughout my life.
 
-My ePortfolio is categorize into three sections in which display technique and skills i've gained throughout my journey. These artifacts are not only shows my skills but also show the growth and progress that ive made in developing this ePortfolio. Moreover, the artifacts show a variety of skills using the programming languages C++ and Java and the narratives gives a in-depth anaylsis of what i learned from previous courses to the enhancements and improvements I currently learned.
+My ePortfolio is categorize into three sections in which display technique and skills i've gained throughout my journey. These artifacts are not only shows my skills but also show the growth and progress that ive made in developing this ePortfolio. Moreover, the artifacts show a variety of skills using the programming languages C++ and Java and the narratives gives a in-depth anaylsis of what I learned from previous courses to the enhancements and improvements I currently learned.
 
 ## **Artifact One: Sofware Design**
 
@@ -43,7 +43,7 @@ Skills:
 - Clustering 
 - Data cleaning/Preparation 
 
-The following link is a documentation of analysis of the company Bubba Gump Shrimp Co. The buisness problem, steps, and recommendations are also within this document:
+The following link is a documentation of analysis of the company Bubba Gump Shrimp Co., The business problem, steps, and recommendations are also within this document:
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Bubba%20Gump%20Final%20Project.docx)
 
