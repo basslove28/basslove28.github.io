@@ -11,6 +11,7 @@ My ePortfolio is categorize into three sections in which display technique and s
 Programming Language: Java
 
 Skills:
+
 - Testing
 - Software testing
 - Commenting style
@@ -27,6 +28,7 @@ Summary of this Artifact:
 Programming Language: C++
 
 Skills:
+
 - Data structures such as: arrays/lists, queueing, hash tables, strings, and stacks
 - Developing Algorithms that is clear and understandable
 - Displaying programming language skills such as c++.
@@ -41,6 +43,7 @@ The following link is from a code I did that best describe my skills above:
 ## **Artifact Three: Databases**
 
 Skills:
+
 - Concepts/Fundamentals of Data Mining  
 - Clustering 
 - Data cleaning/Preparation 
