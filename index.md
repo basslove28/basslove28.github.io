@@ -45,7 +45,7 @@ Skills:
 
 The following link is a documentation of analysis of the company Bubba Gump Shrimp Co. The buisness problem, steps, and recommendations are also within this document:
 
-[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Bubba%20Gump%20Final%20Project.docx)
+- [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Bubba%20Gump%20Final%20Project.docx)
 
 *Summary of this Artifact:
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Narrative%203.docx)
