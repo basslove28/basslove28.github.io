@@ -10,7 +10,7 @@ My ePortfolio is categorize into three sections in which display technique and s
 ## Code Review ##
 This is a code review of the three artifacts that I have chosen to display my skills:
 
--[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Code%20Review%20Video.docx)
+- [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Code%20Review%20Video.docx)
 
 ## **Artifact One: Sofware Design**
 
