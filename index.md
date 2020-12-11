@@ -8,7 +8,7 @@ My ePortfolio is categorize into three sections in which display technique and s
 
 
 ## Code Review ##
-This is a code review of the three artifacts that I have chosen to display my skills:
+The following link below is a code review of the three artifacts that I have chosen to display my skills:
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Code%20Review%20Video.docx)
 
@@ -26,7 +26,7 @@ The following link displays the skills I obtain with my experience:
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/App.java)
 
-Summary of this Artifact:
+*Summary of this Artifact:*
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Narrative%201.docx)
 
 ## **Artifact Two: Data Structures/Algorithms**
@@ -43,7 +43,7 @@ The following link is from a code I did that best describe my skills above:
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Cs260enhancment.cp)
 
-*Summary of this Artifact:
+*Summary of this Artifact:*
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Narrative%202.docx)
 
 ## **Artifact Three: Databases**
@@ -58,7 +58,7 @@ The following link is a documentation of analysis of the company Bubba Gump Shri
 
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Bubba%20Gump%20Final%20Project.docx)
 
-*Summary of this Artifact:
+*Summary of this Artifact:*
 - [Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Narrative%203.docx)
 
 This link is the fit model of the company. This gives an in depth look of how I came up with my analysis:
