@@ -6,6 +6,12 @@ Completing the computer science program I have involved in many projects that no
 
 My ePortfolio is categorize into three sections in which display technique and skills i've gained throughout my journey. These artifacts are not only shows my skills but also show the growth and progress that ive made in developing this ePortfolio. Moreover, the artifacts show a variety of skills using the programming languages C++ and Java and the narratives gives a in-depth anaylsis of what I learned from previous courses to the enhancements and improvements I currently learned.
 
+
+## Code Review ##
+This is a code review of the three artifacts that I have chosen to display my skills:
+
+-[Link](https://github.com/basslove28/basslove28.github.io/blob/gh-pages/Code%20Review%20Video.docx)
+
 ## **Artifact One: Sofware Design**
 
 Programming Language: **Java**
