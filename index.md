@@ -48,6 +48,8 @@ The following link is from a code I did that best describe my skills above:
 
 ## **Artifact Three: Databases**
 
+Programming language: **SQL**
+
 **Skills:**
 
 - Concepts/Fundamentals of Data Mining  
