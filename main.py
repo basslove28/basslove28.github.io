@@ -3,47 +3,84 @@
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
+#class Dog:
+ #   species = "Canis Familiaris"
 
-name = input('Enter your name: ')
-print('Hello', name)
+  #  def __init__(self, name, age):
+ #       self.name = name
+ #       self.age = age
 
-iceC = input('Now that I got your name, enter your favorite ice cream: ')
-sizeX = input('Whats is the size?: "Type letter for size Small(S), Medium(M), Large(L)" ')
-topping = input('Do you want any toppings? type y/n ')
-many = input('Finally, how many ice creams you are purchasing? ')
+  #  name = input('Enter your name: ')
+ #   age = input('Enter the age ')
 
-sizeS = 1.50
-sizeM = 2.50
-sizeL = 3.50
-topping = .50
+    # Instance method
+#    def description(self):
+#        print("{self.name} is {self.age} years old")
 
-
-if sizeX == "S":
-    sizeX = sizeS
-elif sizeX == "M":
-    sizeX = sizeM
-elif sizeX == "L":
-    sizeX = sizeL
-else:
-    print('Try again')
-
-if topping == "y" or "Y":
-   total = ((sizeX + topping * many) * .07)
-   final = sizeX + total
-elif topping == "n" or "N":
-   total = ((sizeX * many) * .07)
-   final = sizeX + total
-
-print("Your total price for your ", iceC, " is: ", final)
-
-# def print_hi(name):
-# Use a breakpoint in the code line below to debug your script.
-#   print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+    # Another instance method
+ #   def speak(self, sound):
+#        print(f"{self.name} says {sound}")
 
 
-# Press the green button in the gutter to run the script.
+class Book:
 
-# if __name__ == '__main__':
-#    print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    favorites = [] #This is an Class-level attribute *see line 40-48*
+
+    def __init__(self, title, pages):
+        print("Creating book")
+        self.title = title
+        self.pages = pages
+
+    def is_long(self):
+        if self.pages > 100:
+            return True
+        return False
+
+    # This is how to overriding a method
+    def __str__(self):
+        return f"{self.title} is {self.pages} pages long."
+
+    # Overriding equal
+    def __eq__(self, other):
+        if self.title == other.title and self.pages == other.pages:
+            return True
+        return False
+
+
+    #How to Hash: **line 55-56, 64-68**
+    # Rules for hashing:
+    # - Hashes shouldn't change an object hash should remain the same for the whole code
+    # - If at least two objects consider equal, hashes should also be the same
+    # - if at least two objects are different,  hashes do not have to be the same. its ideal though
+
+    # __hash__ == None: mutable types
+
+    def __hash__(self):
+            return hash(self.title) ^ hash(self.pages)
+
+
+    #This format is called invoking.
+book = Book("Can of Worms", 72)
+book2 = Book("Green Eggs and Ham", 72)
+
+# For hashing *Line 64-68*
+books = {book, book2}
+print(hash(book))
+
+book.title = "Something else"
+print(hash(book))
+
+#Book.favorites.append(book)
+#Book.favorites.append(book2)
+
+for b in Book.favorites:
+    print(b.title)
+
+#This is how to call a function
+
+#print (book.title)
+#print(book.is_long())
+
+#book2 = Book("test", 200)
+#print(book2.is_long())
