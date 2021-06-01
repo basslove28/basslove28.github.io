@@ -1,6 +1,6 @@
 # About Me:
 
-Throughout my computer science journey, I have experience, implemented and learn about the core aspect of computers and various utilizations that benefits the modern world that we live at this moment. From learn a variety of programming languages such as Java, SQL, C++ and python, to learning how to create simple and complex project that tests my critical thinking skills, as well as being knoweldgable for cerain aspects of technologies. 
+Throughout my computer science journey, I have experience, implemented and learn about the core aspect of computers and various utilizations that benefits the modern world that we live at this moment. From learn a variety of programming languages such as Java, SQL, C++ and Python, to learning how to create simple and complex project that tests my critical thinking skills, as well as being knoweldgable for cerain aspects of technologies. 
 
 Completing the computer science program I have involved in many projects that not only help develop my math and critical thinking skills, but also allow me to become comfortable working with a team as well as communicating with stakeholders. I realize from this experience that effective teamwork is top priority when working in a project. From developing software in an agile envirionment, to software testing to communicate with other team memebers to ensure success, in coomputer science, constant communication is vital. Becoming involve in computer science is something that Ive been wanting to do throughout my life.
 
